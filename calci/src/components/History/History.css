@@ -1,0 +1,22 @@
+.total_output{
+
+  background-color: aqua;
+  width: 20em;  
+  height:30em;          
+  margin-left:103%; 
+  position: absolute;
+  border: 2px solid red;      
+   overflow-y: scroll; 
+
+}
+
+
+ 
+.single_output{
+ color:blue;
+ font-weight: 700;
+ font-size: large; 
+ margin: 0.5em;  
+ 
+}  
+
